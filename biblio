@@ -1,0 +1,35 @@
+% Encoding: UTF-8
+
+@Article{freshimports,
+  author =  {Alberto Egea},
+  title =   {Los mejores coches japoneses de los 90},
+  journal = {www.fresh-imports.com},
+  year =    {2014}
+}
+
+@Article{NSX,
+  author =  {JeffX},
+  title =   {NSX History \& Chronology},
+  journal = {http://www.vtec.net},
+  year =    {2005}
+}
+
+@Article{precionsx,
+  author =  {Raul Salinas Beltran},
+  title =   {Honda NSX 2015: Â¡ya tenemos los primeros precios oficiales!},
+  journal = {www.autobild.es},
+  year =    {2015}
+}
+
+@Article{s2000,
+  author =  {Enrique Calle},
+  title =   {Honda S2000},
+  journal = {km77},
+  year =    {2005}
+}
+
+@Article{skyline,
+  title =   {Nissan Skyline},
+  journal = {www.es.wikipedia.org},
+  year =    {2015}
+}
